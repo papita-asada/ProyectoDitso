@@ -1,2 +1,3 @@
 # ProyectoDitso
 aplicación para incentivar la difusión de la cultura cabécar y evitar la perdida de la cultura de los pueblos originarios costarricenses 
+manual de uso: el usuario simplemente debe ejecutar la clase main dentro del controlador para empezar a jugar, el botón en grande que dice "adentrarse en la historia" abre la leyenda que engloba la cosmología según la visión de los cabécares, debajo de este abra tres pequeñas actividades que bastan con seleccionarlas para jugar y poner a prueba tus conocimientos adquiridos (la historia es un poco extensa, se recomienda tomar notas...) y te indicaran cada una si respondiste bien o mal 
